@@ -1,0 +1,15 @@
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\bin\Debug\net6.0\Aula01.exe
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\bin\Debug\net6.0\Aula01.deps.json
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\bin\Debug\net6.0\Aula01.runtimeconfig.json
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\bin\Debug\net6.0\Aula01.dll
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\bin\Debug\net6.0\Aula01.pdb
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\obj\Debug\net6.0\Aula01.csproj.AssemblyReference.cache
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\obj\Debug\net6.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\obj\Debug\net6.0\Aula01.AssemblyInfoInputs.cache
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\obj\Debug\net6.0\Aula01.AssemblyInfo.cs
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\obj\Debug\net6.0\Aula01.csproj.CoreCompileInputs.cache
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\obj\Debug\net6.0\Aula01.dll
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\obj\Debug\net6.0\refint\Aula01.dll
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\obj\Debug\net6.0\Aula01.pdb
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\obj\Debug\net6.0\Aula01.genruntimeconfig.cache
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Controlando_o_fluxo_de_execucao_em_CSharp\Aula01\obj\Debug\net6.0\ref\Aula01.dll
